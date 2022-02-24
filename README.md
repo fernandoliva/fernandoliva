@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">👀 I’m interested in improve my skills as a Front End Junior Developer. 🌱 I’m currently learning React/NextJS, SCSS, TailwindCSS and others technologies on Frontend/FullStack.</h3>
+<h3 align="center">👀 I’m interested in improve my skills as a Front End Junior Developer.</h3>
+<h3 align="center">🌱 I’m currently learning React/NextJS, SCSS, TailwindCSS and others technologies on Frontend/FullStack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandoliva&label=Profile%20views&color=0b0d0f&style=flat" alt="fernandoliva" /> </p>
 
