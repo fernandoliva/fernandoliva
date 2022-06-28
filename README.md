@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Zeeker Solutions**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.fernandoliva.es](https://portfolio.fernandoliva.es)
+- 👨‍💻 All of my projects are available at [https://portfolio.fernandoliva.com](https://portfolio.fernandoliva.com)
 
 - 📫 How to reach me **fernandoliva9@gmail.com**
 
