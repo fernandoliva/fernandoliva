@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">👀 I’m interested in improve my skills as a Front End Junior Developer.</h3>
-<h3 align="center">🌱 I’m currently learning React/NextJS, SCSS, TailwindCSS and others technologies on Frontend/FullStack.</h3>
+<h3 align="center">👀 I’m interested in improve my skills as a QA Tester & Frontend Developer.</h3>
 
-
-
-- 🔭 I’m currently working on **Zeeker Solutions**
-
-- 👨‍💻 All of my projects are available at [https://portfolio.fernandoliva.com](https://portfolio.fernandoliva.com)
-
+- 🔭 I’m currently working on **Zeeker Solutions** as a Lead QA Tester
 - 📫 How to reach me **fernandoliva9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
