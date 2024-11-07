@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">👀 I’m interested in improve my skills as a QA Tester & Frontend Developer.</h3>
-<h3 align="center">🔭 I’m currently working on **Zeeker Solutions** as a Lead QA Tester</h3>
-<h3 align="center">📫 How to reach me **fernandoliva9@gmail.com**</h3>
+<h3 align="left">👀 I’m interested in improve my skills as a QA Tester & Frontend Developer.</h3>
+<h3 align="left">🔭 I’m currently working on <b>Zeeker Solutions</b> as a Lead QA Tester</h3>
+<h3 align="left">📫 How to reach me **fernandoliva9@gmail.com**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
